@@ -11,9 +11,9 @@ A simple and beautiful React-based weather application that allows users to:
 
 ## 🚀 Live Demo
 
-🔗 [Netlify Deployment](https://your-netlify-link.netlify.app)
+🔗 [Netlify Deployment](https://weatherapp-india.netlify.app/)
 
-📦 [GitHub Repository](https://github.com/your-username/weather-app)
+📦 [GitHub Repository](https://github.com/gaurav-jangam/weather-app)
 
 ---
 
