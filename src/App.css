@@ -1,0 +1,38 @@
+/* App.css */
+
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #e0eafc, #cfdef3);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.container {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 16px;
+  padding: 20px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Utility styles (optional) */
+.text-center {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+
